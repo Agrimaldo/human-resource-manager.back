@@ -1,0 +1,6 @@
+@HumanResourceManager.API_HostAddress = http://localhost:5008
+
+GET {{HumanResourceManager.API_HostAddress}}/user/
+Accept: application/json
+
+###
